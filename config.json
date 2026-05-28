@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsalculate",
+        "uuid": 35620695,
+        "checksum": "36phlk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
